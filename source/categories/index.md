@@ -15,3 +15,4 @@ date: 2026-04-03 15:09:25
 
 [随便看点东西](./look/index.html)
 
+[正经人谁写日记啊](./diary/index.html)
