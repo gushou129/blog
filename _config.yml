@@ -4,11 +4,11 @@
 
 # Site
 title: Hello World
-subtitle: ''
+subtitle: 'Jam141'
 description: ''
 keywords:
 author: Jam
-language: zh-cn
+language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
@@ -43,6 +43,7 @@ render_drafts: false
 post_asset_folder: false
 relative_link: false
 future: true
+# 默认设置
 syntax_highlighter: highlight.js
 highlight:
   line_number: true
@@ -51,9 +52,11 @@ highlight:
   wrap: true
   hljs: false
 prismjs:
-  preprocess: true
+  preprocess: false
   line_number: true
   tab_replace: ''
+# 关闭代码高亮
+# syntax_highlighter: 
 
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
@@ -67,6 +70,11 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
+  "小孩子写着玩的": test
+  "我不是个诗人": poem
+  "最真情实感": passion
+  "还是学一点吧": study
+  "闲言碎语讲两句": nap
 tag_map:
 
 # Metadata elements
@@ -96,8 +104,9 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
-# theme: cactus-white
+#theme: landscape
+#theme: cactus-white
+theme: next
 
 
 # Deployment
