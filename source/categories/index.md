@@ -13,3 +13,5 @@ date: 2026-04-03 15:09:25
 
 [最真情实感](./passion/index.html)
 
+[随便看点东西](./look/index.html)
+
