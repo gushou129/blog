@@ -1,5 +1,5 @@
 ---
 title: {{ title }}
-categories: 随便写着玩的
+categories: 小孩子写着玩的
 date: {{ date }}
 ---
