@@ -12,7 +12,3 @@ date: 2026-04-03 15:09:25
 [闲言碎语讲两句](./nap/index.html)
 
 [最真情实感](./passion/index.html)
-
-[随便看点东西](./look/index.html)
-
-[正经人谁写日记啊](./diary/index.html)
