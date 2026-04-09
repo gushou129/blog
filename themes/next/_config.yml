@@ -74,9 +74,9 @@ footer:
     enable: true
     icp: 浙ICP备2026021423号-1
     # The digit in the num of gongan beian.
-    gongan_id: 浙ICP备2026021423号-1
-    # The full num of gongan beian.
-    gongan_num:
+    gongan_id: 
+   # The full num of gongan beian.
+    gongan_num: 
     # The icon for gongan beian. See: http://www.beian.gov.cn/portal/download
     gongan_icon_url:
 
