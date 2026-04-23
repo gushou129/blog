@@ -78,7 +78,7 @@ footer:
    # The full num of gongan beian.
     gongan_num: 浙公网安备33011002019331号
     # The icon for gongan beian. See: http://www.beian.gov.cn/portal/download
-    gongan_icon_url: /images/beian_icon.png
+    gongan_icon_url: /root/blog/themes/next/source/images/logo01.6189a29f.png
 
 # Creative Commons 4.0 International License.
 # See: https://creativecommons.org/share-your-work/licensing-types-examples
